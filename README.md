@@ -4,6 +4,8 @@
 There are train and test datasets. Input format is following:
 id,text,label
 
+Dataset is obtained from [SuDer](https://github.com/suverim/suder) Turkish News Collections. 
+
 ## Preprocessing
 * Lowercase conversion
 * Category --> Integer
@@ -18,3 +20,4 @@ GridSearchCV finds the best combination of given parameters. It is used for both
 ## Results
 Results are measured through test data. Naive Bayes has an accuracy of 0.702 and logistic regression has an accuracy of 0.824.
 
+## Dataset
