@@ -1,4 +1,4 @@
-# Naive-Bayes-Text-Classification
+# Naive Bayes and Logistic Regression Text Classification
 
 ## Input
 There are train and test datasets. Input format is following:
@@ -19,5 +19,3 @@ GridSearchCV finds the best combination of given parameters. It is used for both
 
 ## Results
 Results are measured through test data. Naive Bayes has an accuracy of 0.702 and logistic regression has an accuracy of 0.824.
-
-## Dataset
